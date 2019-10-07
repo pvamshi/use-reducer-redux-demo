@@ -35,5 +35,5 @@ Visit [http://localhost:1234](http://localhost:1234)
 Open console to check the logs being printed out. 
 
 ## Motivation 
-This is to evaluate if we can emulate redux with thunk, logger etc without using any third party libraries. 
+This is to evaluate if we can emulate redux with thunk, logger etc without using any third party libraries. This is possible using React hooks . This is just POC, so you wont find tests and there might be million bugs 😁. 
 
